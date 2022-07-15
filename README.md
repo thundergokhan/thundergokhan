@@ -1,4 +1,4 @@
-![MasterHead](https://tenor.com/view/programmer-gif-19019116](https://dribbble.com/halfpsyched/collections/3363251-Coder)
+![MasterHead]([https://tenor.com/view/programmer-gif-19019116](https://dribbble.com/halfpsyched/collections/3363251-Coder](https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif))
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt=Coding width="400" src="https://media3.giphy.com/media/QHAtcUwRhyxErSzE13/giphy.gif?cid=790b7611b4e92c9d9fe6a025349d166b16467e33ae672a80&rid=giphy.gif&ct=g">
