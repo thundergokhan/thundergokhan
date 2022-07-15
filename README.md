@@ -1,4 +1,4 @@
-<img align="right" alt=Coding width="400" src=![MasterHead](https://media3.giphy.com/media/TncmRRvEGVoVcHgaAb/giphy.gif?cid=ecf05e47l6qusl20g1u87tcdgjwhykd90rkq17w5yv8ym7qj&rid=giphy.gif&ct=g)>
+<img align="center" alt=Coding width="400" src=![MasterHead](https://media3.giphy.com/media/TncmRRvEGVoVcHgaAb/giphy.gif?cid=ecf05e47l6qusl20g1u87tcdgjwhykd90rkq17w5yv8ym7qj&rid=giphy.gif&ct=g)>
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt=Coding width="400" src="https://media3.giphy.com/media/QHAtcUwRhyxErSzE13/giphy.gif?cid=790b7611b4e92c9d9fe6a025349d166b16467e33ae672a80&rid=giphy.gif&ct=g">
