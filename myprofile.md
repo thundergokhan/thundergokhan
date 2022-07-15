@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt=Coding width="400" src="https://media3.giphy.com/media/QHAtcUwRhyxErSzE13/giphy.gif?cid=790b7611b4e92c9d9fe6a025349d166b16467e33ae672a80&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhan818&label=Profile%20views&color=0e75b6&style=flat" alt="gokhan818" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gokhany8" target="blank"><img src="https://img.shields.io/twitter/follow/gokhany8?logo=twitter&style=for-the-badge" alt="gokhany8" /></a> </p>
 
