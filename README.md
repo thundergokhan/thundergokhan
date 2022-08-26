@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gokhanyil8" target="blank"><img src="https://img.shields.io/twitter/follow/gokhany8?logo=twitter&style=for-the-badge" alt="gokhanyil8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gokhanyil8" target="blank"><img src="https://img.shields.io/twitter/follow/gokhanyil8?logo=twitter&style=for-the-badge" alt="gokhanyil8" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
