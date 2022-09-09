@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gokhanyil8" target="blank"><img src="https://img.shields.io/twitter/follow/gokhanyil8?logo=twitter&style=for-the-badge" alt="gokhanyil8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gokhan" target="blank"><img src="https://img.shields.io/twitter/follow/gokhany?logo=twitter&style=for-the-badge" alt="gokhany" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gokhanyil8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokhanyil8" height="30" width="40" /></a>
+<a href="https://twitter.com/gokhanyil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokhany" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gökhan-yıldırım-19g3499/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan-yıldırım-19g3499/" height="30" width="40" /></a>
 </p>
 
