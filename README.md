@@ -12,7 +12,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Java**
 
 - 👨‍💻 All of my projects are available 
 
