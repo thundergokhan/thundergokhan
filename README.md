@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available 
 
-- ⚡ Fun fact **I'm good with people**
+- ⚡ Fun fact **I love playing football, basketball and video games. I love following and watching football matches motorsports especially Formula 1**
 
 
 <h3 align="left">Languages and Tools:</h3>
