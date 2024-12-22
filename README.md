@@ -15,7 +15,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Front-end Development & Java**
+- 🌱 I’m currently learning **Front-end Development & Back-end Development**
 
 - 👨‍💻 All of my projects are available 
 
