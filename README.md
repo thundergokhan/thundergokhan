@@ -57,8 +57,6 @@ I specialize in cloud services, automation, monitoring, and IT operations. My fo
 - [Stack Overflow](https://stackoverflow.com/users/20846461/gökhan)
 - [Medium](https://medium.com/@thundergokhan)
 - [HackerRank](https://www.hackerrank.com/profile/thundergokhan34)
-- E-mail: gokhan.yildirim@example.com
-
 ---
 
 > “Technology should empower people—through automation, insight, and reliability.”
