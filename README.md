@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Gökhan Yıldırım (thundergokhan)
+# 👋 Hi, I'm Gökhan Yıldırım
 
-**Cloud Services & Automation Technologies | System Support Specialist**
+**System Expert | Middleware & Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gökhan-yıldırım-19g3499/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20846461/gökhan)
@@ -11,52 +11,28 @@
   <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" />
 </p>
 
----
-
-## 🚀 About Me
-
-I specialize in cloud services, automation, monitoring, and IT operations. My focus is on building self-service infrastructures, increasing efficiency through automation, and ensuring reliability in enterprise environments.
-
-- 🌩️ Cloud automation & system specialist with broad experience in enterprise IT
-- 🏆 Led large-scale IT projects, RPA automation, and international team coordination
-- 💡 Certified: CCNA, CyberOps, AWS, DevOps
 
 ---
 
-## 🛠️ Skills & Tools
+### 🚀 Summary
+I am a System Expert specializing in Middleware technologies and Infrastructure Automation. I focus on managing enterprise-level application environments, ensuring high availability, and streamlining operations through automated workflows.
 
-- **Cloud & Automation:** VMware, Ansible, BSA, BAO, GTCloud
-- **Monitoring:** Dynatrace, Instana, SCOM
-- **Reporting:** Power BI, Excel, SQL
-- **Asset & License Management:** Aspera, ILMT
-- **ITSM:** JIRA, 4me, Zendesk, ULTIA
-- **System Ops:** Linux (CentOS), Windows, Active Directory, Azure
-- **Programming:** Python
+- ⚙️ **Focus:** Middleware Management, System Reliability, and Process Automation.
+- 📊 **Expertise:** Bridging the gap between infrastructure and applications.
 
 ---
 
-## 🌟 Projects
+### 🛠️ Core Expertise
 
-- **Automatic Irrigation System:** Smart agriculture project using Arduino and soil sensors
-- **Visitor Counter:** Real-time IR sensor visitor tracking system
-- **RPA Bots:** Automated shift planning and reporting with Python
-
----
-
-## 💬 More
-
-- 🏅 Recognized for project leadership, onboarding, and exceeding SLA targets
-- 📊 Enjoys automating and visualizing business operations
-- ⚡ Loves home automation, cloud tech, sports, and self-improvement
+* **Middleware & Ops:** Linux (CentOS), Windows Server, Active Directory, Azure.
+* **Automation & Scripting:** Ansible, Python (RPA & Automation), BSA, BAO.
+* **Monitoring & ITSM:** Dynatrace, Instana, SCOM, JIRA, 4me.
+* **Data & Reporting:** Power BI, SQL, Excel.
 
 ---
 
-## 📫 Contact
+### 🌟 Key Projects
 
-- [LinkedIn](https://www.linkedin.com/in/gökhan-yıldırım-19g3499/)
-- [Stack Overflow](https://stackoverflow.com/users/20846461/gökhan)
-- [Medium](https://medium.com/@thundergokhan)
-- [HackerRank](https://www.hackerrank.com/profile/thundergokhan34)
----
-
-> “Technology should empower people—through automation, insight, and reliability.”
+* **Middleware Operations:** Managing and optimizing enterprise application environments for maximum uptime.
+* **Automation:** Developing Python-based bots for automated.
+* **Enterprise Monitoring:** Implementing full-stack monitoring and observability solutions.
